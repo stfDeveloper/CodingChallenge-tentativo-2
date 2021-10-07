@@ -1,0 +1,63 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+/* contenuto con sfondo trasparente */
+.container{
+  background-color:rgba(0,0,0,.5);
+  color: #fff;
+  width: 1000px;
+  height: 650px;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+.Box1{
+  text-align: center;
+  width:800px;
+  margin:auto;
+  padding:50px;
+}
+#testo-iniziale{
+  font-size:30px;
+  color:rgb(0,255,0);
+}
+#logo{
+  width: 200px;
+}
+
+/* colore sfondo nav */
+.layout-tasti{
+  background-color:rgb(0,255,0);
+  padding:5px;
+}
+.Box2{
+  text-align: left;
+  width:800px;
+  margin:auto;
+  }
+.proprietario-monopattino{
+    font-size: 30px;
+
+  }
+/* colore carica monopattini */
+.arancione{
+  background-color: orange;
+  width:300px;
+  padding:15px;
+  border-radius:5px;
+}
+.verde{
+  background-color: green;
+  width:50%;
+  padding:15px;
+  border-radius:5px;
+}
+.rosso{
+  background-color:red;
+  width:150px;
+  padding:15px;
+  border-radius:5px;
+}
